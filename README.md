@@ -40,5 +40,5 @@ img/res folder.
  _completed_
 
 ## Contact
-- Project By: **Aditya Raj** and **Abhiraj Gupta**.
-- <a href="mailto:founderafriends@gmail.com,abhiraj.gupta16@gmail.com">Email Us</a>
+- Project By: **Aditya Raj**.
+- <a href="mailto:founderafriends@gmail.com">Email Me</a>
