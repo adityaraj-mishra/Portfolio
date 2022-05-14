@@ -41,4 +41,4 @@ img/res folder.
 
 ## Contact
 - Project By: **Aditya Raj**.
-- <a href="mailto:founderafriends@gmail.com">Email Me</a>
+- <a href="mailto:araj.mishra2000@gmail.com">Email Me</a>
